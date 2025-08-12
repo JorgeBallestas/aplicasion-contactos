@@ -95,14 +95,14 @@ El sistema mantiene la sesión activa durante el uso y permite cerrar sesión de
 # Base de Datos
 **El sistema utiliza dos tablas principales:**
 
-Tabla usuarios
+**Tabla usuarios**
 id: Identificador único auto-incremental
 nombre: Nombre completo del usuario
 email: Correo electrónico único
 password: Contraseña cifrada
 fecha_creacion: Timestamp de registro
 
-Tabla contactos
+**Tabla contactos**
 id: Identificador único auto-incremental
 usuario_id: Referencia al usuario propietario
 nombre: Nombre del contacto
@@ -120,5 +120,8 @@ Proyecto completado con todas las funcionalidades CRUD implementadas y probadas.
 
 # Contacto
 **Correo Electrónico:**[ballestasjorge66@gmail.com]
-Si no das para instalar la aplicación te recomiendo que veas videos en YouTube
+
+# Recomendaciones
+**Si no das para instalar la aplicación te recomiendo que veas videos en YouTube**
+
 **link:** [https://www.youtube.com] 
