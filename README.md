@@ -115,7 +115,8 @@ Proyecto completado con todas las funcionalidades CRUD implementadas y probadas.
 
 # Autor
 **Jorge Alberto Ballestas Morales**
-Estudiante de Análisis y Desarrollo de Software - SENA
+
+-Estudiante de Análisis y Desarrollo de Software - SENA
 
 # Contacto
 **Correo Electrónico:**[ballestasjorge66@gmail.com]
