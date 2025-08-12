@@ -2,10 +2,13 @@
 Sistema de Gestión de Contactos PHP es una aplicación web completa desarrollada con PHP, MySQL y tecnologías web modernas con el objetivo de proporcionar una solución integral para la gestión de contactos personales con autenticación de usuarios y operaciones CRUD seguras.
 Vista del Dashboard Principal
 El sistema cuenta con un dashboard intuitivo que muestra todos los contactos del usuario autenticado, permitiendo realizar operaciones de edición y eliminación de forma sencilla.
+
 **Formulario de Registro**
 Interfaz limpia y funcional para el registro de nuevos usuarios con validación de datos y contraseñas.
+
 **Gestión de Contactos**
 Sistema completo para agregar, editar y eliminar contactos con formularios validados y confirmaciones de seguridad.
+
 **Descripción del Proyecto**
 El proyecto consiste en el desarrollo de una aplicación web que permite a los usuarios registrarse, autenticarse y gestionar sus contactos personales de manera segura. Esta aplicación ofrece 
 un sistema completo de gestión con autenticación por sesiones, validación de datos y todas las operaciones CRUD necesarias para administrar contactos.
@@ -71,7 +74,7 @@ Servidor local como XAMPP, WAMP o MAMP
 
 # Instalación
 Clona o descarga este repositorio
-**link:** [] 
+**link:** [https://github.com/JorgeBallestas/aplicasion-contactos.git] 
 Coloca los archivos en la carpeta htdocs de tu servidor local
 Inicia Apache y MySQL en tu servidor local
 Crea una base de datos llamada "contactos" en phpMyAdmin
