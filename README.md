@@ -80,7 +80,6 @@ Inicia Apache y MySQL en tu servidor local
 Crea una base de datos llamada "contactos" en phpMyAdmin
 Ejecuta el script SQL contenido en data-base.sql
 Configura las credenciales de base de datos en includes/database.php
-Accede a http://localhost/contactos-app/ para comenzar
 
 # Cómo Usar la Aplicación
 **La aplicación puede ser utilizada siguiendo estos pasos:**
